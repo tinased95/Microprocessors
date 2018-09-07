@@ -1,0 +1,71 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\Debug\q2_keyboard.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q2_keyboard.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q2_keyboard.map</FILE>
+  <FILE>q2_keyboard.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RST_ISR><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>55</LINE></RST_ISR>
+  <EXT_INT0_ISR><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>42</LINE></EXT_INT0_ISR>
+  <keyFind><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>102</LINE></keyFind>
+  <codeToChar><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>222</LINE></codeToChar>
+  <LCD_wait><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>472</LINE></LCD_wait>
+  <LCD_putchar><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>355</LINE></LCD_putchar>
+  <LCD_init><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>490</LINE></LCD_init>
+  <end><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>99</LINE></end>
+  <not_col1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>147</LINE></not_col1>
+  <not_0><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>130</LINE></not_0>
+  <not_4><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>136</LINE></not_4>
+  <not_8><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>142</LINE></not_8>
+  <not_col2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>173</LINE></not_col2>
+  <not_1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>156</LINE></not_1>
+  <not_5><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>162</LINE></not_5>
+  <not_9><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>168</LINE></not_9>
+  <not_col3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>199</LINE></not_col3>
+  <not_2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>182</LINE></not_2>
+  <not_6><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>188</LINE></not_6>
+  <not_A><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>194</LINE></not_A>
+  <not_3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>205</LINE></not_3>
+  <not_7><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>211</LINE></not_7>
+  <not_B><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>217</LINE></not_B>
+  <sssNot_0><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>230</LINE></sssNot_0>
+  <sssNot_1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>237</LINE></sssNot_1>
+  <sssNot_2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>244</LINE></sssNot_2>
+  <sssNot_3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>251</LINE></sssNot_3>
+  <sssNot_4><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>258</LINE></sssNot_4>
+  <sssNot_5><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>265</LINE></sssNot_5>
+  <sssNot_6><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>272</LINE></sssNot_6>
+  <sssNot_7><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>279</LINE></sssNot_7>
+  <sssNot_8><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>286</LINE></sssNot_8>
+  <sssNot_9><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>293</LINE></sssNot_9>
+  <sssNot_A><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>300</LINE></sssNot_A>
+  <sssNot_B><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>307</LINE></sssNot_B>
+  <sssNot_C><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>314</LINE></sssNot_C>
+  <sssNot_D><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>321</LINE></sssNot_D>
+  <sssNot_E><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>328</LINE></sssNot_E>
+  <lcd_command8><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>333</LINE></lcd_command8>
+  <lcd_command><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>391</LINE></lcd_command>
+  <LCD_getchar><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>423</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>448</LINE></LCD_getaddr>
+  <LCD_delay><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>479</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>481</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_keyboard\q2_keyboard\main.asm</FILE><LINE>483</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

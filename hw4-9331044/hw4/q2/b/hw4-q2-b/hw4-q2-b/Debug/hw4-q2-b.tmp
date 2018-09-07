@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\Debug\hw4-q2-b.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw4-q2-b.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw4-q2-b.map</FILE>
+  <FILE>hw4-q2-b.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RST_ISR><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\main.asm</FILE><LINE>12</LINE></RST_ISR>
+  <WAIT_KEY><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\main.asm</FILE><LINE>31</LINE></WAIT_KEY>
+  <SET_HALF><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\main.asm</FILE><LINE>45</LINE></SET_HALF>
+  <SET_FULL><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw4-q2-b\hw4-q2-b\main.asm</FILE><LINE>50</LINE></SET_FULL>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\Debug\hw8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw8.map</FILE>
+  <FILE>hw8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>42</LINE></start>
+  <reset><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>29</LINE></reset>
+  <int1_isr><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>17</LINE></int1_isr>
+  <input><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>49</LINE></input>
+  <output><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>94</LINE></output>
+  <Loop><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>44</LINE></Loop>
+  <maybe1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>55</LINE></maybe1>
+  <maybe2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>67</LINE></maybe2>
+  <maybe3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>79</LINE></maybe3>
+  <end><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>91</LINE></end>
+  <check1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>98</LINE></check1>
+  <check2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>103</LINE></check2>
+  <check3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>108</LINE></check3>
+  <check4><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>113</LINE></check4>
+  <check5><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>118</LINE></check5>
+  <check6><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>123</LINE></check6>
+  <check7><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>128</LINE></check7>
+  <check8><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>133</LINE></check8>
+  <end1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw8\hw8\main.asm</FILE><LINE>138</LINE></end1>
+ </LABELS>
+</ASSEMBLER_INFO>

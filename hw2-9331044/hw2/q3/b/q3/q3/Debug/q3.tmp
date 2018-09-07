@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\Debug\q3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q3.map</FILE>
+  <FILE>q3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\main.asm</FILE><LINE>7</LINE></start>
+  <OFF_MODE><FILE>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\main.asm</FILE><LINE>14</LINE></OFF_MODE>
+  <ON_MODE><FILE>C:\Users\Tina sed\Desktop\riz norooz\hw2\q3\b\q3\q3\main.asm</FILE><LINE>20</LINE></ON_MODE>
+ </LABELS>
+</ASSEMBLER_INFO>

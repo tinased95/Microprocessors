@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\Debug\hw5q1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw5q1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw5q1.map</FILE>
+  <FILE>hw5q1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RST_ISR><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>32</LINE></RST_ISR>
+  <AC_ISR><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>13</LINE></AC_ISR>
+  <AC_ISR_TURN_ON><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>24</LINE></AC_ISR_TURN_ON>
+  <TURN_OFF><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>61</LINE></TURN_OFF>
+  <AC_ISR_END><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>27</LINE></AC_ISR_END>
+  <TURN_ON><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>55</LINE></TURN_ON>
+  <END><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\hw5q1\hw5q1\main.asm</FILE><LINE>53</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>

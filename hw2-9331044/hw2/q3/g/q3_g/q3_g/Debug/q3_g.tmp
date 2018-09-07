@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\Debug\q3_g.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q3_g.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q3_g.map</FILE>
+  <FILE>q3_g.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <rst_isr><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>21</LINE></rst_isr>
+  <int1_isr><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>13</LINE></int1_isr>
+  <delay><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>44</LINE></delay>
+  <start><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>38</LINE></start>
+  <d><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>47</LINE></d>
+  <delay_loop_1><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>55</LINE></delay_loop_1>
+  <delay_loop_2><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>57</LINE></delay_loop_2>
+  <delay_loop_3><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>70</LINE></delay_loop_3>
+  <delay_loop_4><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q3_g\q3_g\main.asm</FILE><LINE>72</LINE></delay_loop_4>
+ </LABELS>
+</ASSEMBLER_INFO>

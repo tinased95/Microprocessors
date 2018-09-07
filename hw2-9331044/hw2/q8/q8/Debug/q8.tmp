@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\Debug\q8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q8.map</FILE>
+  <FILE>q8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\main.asm</FILE><LINE>9</LINE></start>
+  <SUBROUTINE><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\main.asm</FILE><LINE>14</LINE></SUBROUTINE>
+  <STORE><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q8\q8\main.asm</FILE><LINE>33</LINE></STORE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\Debug\q5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q5.map</FILE>
+  <FILE>q5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>26</LINE></Reset>
+  <BCDTO7_seg><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>19</LINE></BCDTO7_seg>
+  <Reset_counter><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>41</LINE></Reset_counter>
+  <Start><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>49</LINE></Start>
+  <L1><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>58</LINE></L1>
+  <loop_while_button_held><FILE>C:\Users\Tina sed\Documents\Atmel Studio\7.0\q5\q5\main.asm</FILE><LINE>68</LINE></loop_while_button_held>
+ </LABELS>
+</ASSEMBLER_INFO>

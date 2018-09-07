@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc</DIR>
+  <DIR>F:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.106\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\Debug\q2_Hello_world.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q2_Hello_world.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q2_Hello_world.map</FILE>
+  <FILE>q2_Hello_world.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>40</LINE></reset>
+  <LCD_init><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>268</LINE></LCD_init>
+  <LCD_wait><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>250</LINE></LCD_wait>
+  <LCD_putchar><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>133</LINE></LCD_putchar>
+  <end><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>81</LINE></end>
+  <LCD_command><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>169</LINE></LCD_command>
+  <LCD_getchar><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>201</LINE></LCD_getchar>
+  <LCD_delay><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>257</LINE></LCD_delay>
+  <loop><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>109</LINE></loop>
+  <lcd_command8><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>111</LINE></lcd_command8>
+  <LCD_getaddr><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>226</LINE></LCD_getaddr>
+  <LCD_delay_outer><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>259</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>c:\users\tina sed\Documents\Atmel Studio\7.0\q2_Hello_world\q2_Hello_world\main.asm</FILE><LINE>261</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>
